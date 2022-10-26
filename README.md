@@ -1,4 +1,4 @@
-near-blank-project
+hello-near-ts
 ==================
 
 This app was initialized with [create-near-app]
